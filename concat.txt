@@ -1,0 +1,3 @@
+file 'scene1_trim.mp4'
+file 'scene2_trim.mp4'
+file 'scene3_trim.mp4'
